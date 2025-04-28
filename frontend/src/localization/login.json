@@ -1,0 +1,50 @@
+{
+    "en": {
+        "pageTitle": "Sign in",
+
+        "formTitle": "Sing in",
+        "formEmailLabel": "Email",
+        "formEmailInputPaceholder": "Fill in your email",
+        "formEmailInputInfo": "Make sure you already have an account to be able to Sign in.",
+        "formPasswordLabel": "Password",
+        "formPasswordInputPaceholder": "Enter your password",
+        "formSubmitBtn": "Login",
+        "linkContainerText": "Need account?",
+        "linkContainerSignUp": "Sign Up",
+        "linkContainerForgotPassword": "Forgot Password",
+
+        "loginSuccess": "Authorization successful"
+    },
+    "ru": {
+        "pageTitle": "Войти",
+
+        "formTitle": "Войти",
+        "formEmailLabel": "Электронная почта",
+        "formEmailInputPaceholder": "Укажите вашу электронную почту",
+        "formEmailInputInfo": "Убедитесь, что у вас уже есть учетная запись, чтобы иметь возможность войти в систему.",
+        "formPasswordLabel": "Пароль",
+        "formPasswordInputPaceholder": "Введите ваш пароль",
+        "formSubmitBtn": "Войти",
+        "linkContainerText": "Нужна учётная запись?",
+        "linkContainerSignUp": "Зарегистрировать",
+        "linkContainerForgotPassword": "Забыл пароль",
+
+        "loginSuccess": "Авторизация прошла успешно"
+    },
+    "errors": {
+        "en": {
+            "email_required": "Email is required",
+            "user_not_exists": "Incorrect login or password",
+            "invalid_email": "Provide your email adress",
+            "invalid_password": "Provide your password",
+            "password_required": "Password is required"
+        },
+        "ru": {
+            "email_required": "Электронная почта обязательна",
+            "user_not_exists": "Неверный логин или пароль",
+            "invalid_email": "Укажите ваш адрес электронный почты",
+            "invalid_password": "Введите ваш пароль",
+            "password_required": "Пароль обязателен"
+        }
+    }
+}

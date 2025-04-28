@@ -1,0 +1,18 @@
+{
+    "en": {
+        "loginBtn": "Sing in",
+        "logoutBtn": "Logout",
+
+        "localizationBtnText": "EN",
+        "copyrightText": "All rights reserved.",
+        "userAgreement": "User Agreement"
+    },
+    "ru": {
+        "loginBtn": "Войти",
+        "logoutBtn": "Выйти",
+
+        "localizationBtnText": "RU",
+        "copyrightText": "Все права защищены.",
+        "userAgreement": "Пользовательское соглашение"
+    }
+}

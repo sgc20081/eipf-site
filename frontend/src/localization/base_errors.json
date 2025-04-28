@@ -1,0 +1,8 @@
+{
+    "en": {
+        "unchaught_error": "Something went wrong, an error occurred. Try again later."
+    },
+    "ru": {
+        "unchaught_error": "Что-то пошло не так, произошла ошибка. Попробуйте позже."
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "en": {
+        "pageTitle": "Main page",
+        
+        "mainTitle": "European Investor Protection Fund",
+        "profileTitle": "Profile",
+        "profileContainerTitle": "Wallet",
+        "profileContainerText": "Sign up or Sign in to your personal account by following this QR code. Your account is totally private and no one can access it. On Dashboard you have an ability to track your current balance and withdraw money too.",
+        
+        "optionsTitle": "Options",
+        "optionContainer1Title": "Regulation of brokerage company activities in the market",
+        "optionContainer1Text1": "- first of all, we check the financial side as well as the control of working with the exchange.",
+        "optionContainer1Text2": "We have access to all brokerage companies, and therefore all their operations too. Which allows us to regulate their customer accounts.",
+        "optionContainer2Title": "Assistance in liquidating companies or financial pyramid schemes as needed",
+        "optionContainer2Text1": "- in case a company is operating illegally, we have full authority to shut it down.",
+        "optionContainer2Text2": "Currently we have powers to obtain evidence of illegal work, help victims get their money back, and refer cases to law enforcement.",
+        
+        "reviewsTitle": "Reviews",
+        "review1Date": "November 5, 2023",
+        "review2Date": "July 28, 2024",
+        "review3Date": "May 24, 2024",
+        "review4Date": "January 15, 2025",
+        "review5Date": "January 4, 2024",
+        "review6Date": "March 3, 2024",
+        
+        "employeesTitle": "Employees",
+        "employee1Name": "Maria Zavirova",
+        "employee2Name": "Tomas Bolton",
+        "employee3Name": "Amina Abasova",
+        "employee4Name": "Victoria Hromova",
+
+        "employee5Name": "Alena Koktush",
+        "employee6Name": "Vyacheslav Parhomov",
+        "employee7Name": "Andrew Michurin",
+        "employee8Name": "Timur Samarin",
+
+        "employee9Name": "Sergey Krestov",
+        "employee10Name": "Maxim Mintslov",
+        "employee11Name": "Emma Lindberg",
+        "employee12Name": "German Titov",
+
+        "employee13Name": "Mironenko Karina",
+        "employee14Name": "Isaeva Olga",
+        "employee15Name": "Yusupova Maria",
+        "employee16Name": "Voronin Gleb",
+
+        "employee17Name": "Boyko Sofia",
+        "employee18Name": "Bondar Evgeniya",
+        "employee19Name": "Streletskaya Marina",
+        "employee20Name": "Kostenko Vladislav",
+
+        "employeeLocation": "England",
+        
+        "employeeEconomist": "Economist",
+        "employeeManager": "Manager",
+        "employeePayementsDivision": "Payments Division",
+
+        "employeesMoreBtn": "Show more employees",
+        
+        "aboutUsTitle": "About Us",
+        "aboutUsAdress1": "London, England",
+        "aboutUsAdress2": "21 Baker St.",
+        "aboutUsEmailLabel": "Email:",
+        "aboutUsWorkingHoursLabel": "Working Hours:",
+        "aboutUsWorkingHoursText": "Mon-Fri: 8:00 - 16:00"
+    },
+    "ru": {
+        "pageTitle": "Главная",
+        
+        "mainTitle": "Европейский Фонд Защиты Инвесторов",
+        "profileTitle": "Профиль",
+        "profileContainerTitle": "Кошелёк",
+        "profileContainerText": "Зарегистрируйтесь или войдите в свою личную учетную запись, следуя этому QR-коду. Ваш аккаунт полностью приватен, и никто не может получить к нему доступ. На панели Dashboard вы можете отслеживать свой текущий баланс и снимать деньги.",
+        
+        "optionsTitle": "Опции",
+        "optionContainer1Title": "Регулирование деятельности брокерских компаний на рынке",
+        "optionContainer1Text1": "- прежде всего, мы проверяем финансовую сторону, а также контроль работы с биржей.",
+        "optionContainer1Text2": "Мы имеем доступ ко всем брокерским компаниям, а значит, и ко всем их операциям в том числе. Благодаря этому мы можем регулировать/модернизировать счета клиентов.",
+        "optionContainer2Title": "Помощь в ликвидации компаний или финансовых пирамид по мере необходимости",
+        "optionContainer2Text1": "- если компания работает незаконно, мы имеем полное право закрыть ее.",
+        "optionContainer2Text2": "В настоящее время у нас есть полномочия получать доказательства нелегальной работы, помогать жертвам вернуть деньги и передавать дела в правоохранительные органы.",
+        
+        "reviewsTitle": "Отзывы",
+        "review1Date": "5 ноября, 2023",
+        "review2Date": "28 июля, 2024",
+        "review3Date": "24 мая, 2024",
+        "review4Date": "15 января, 2025",
+        "review5Date": "4 Января, 2024",
+        "review6Date": "3 марта, 2024",
+        
+        "employeesTitle": "Сотрудники",
+        "employee1Name": "Мария Завирова",
+        "employee2Name": "Томас Болтон",
+        "employee3Name": "Амина Абасова",
+        "employee4Name": "Виктория Хромова",
+
+        "employee5Name": "Алёна Коктуш",
+        "employee6Name": "Вячеслав Пархоменко",
+        "employee7Name": "Андрей Мичурин",
+        "employee8Name": "Тимур Самарин",
+
+        "employee9Name": "Сергей Крестов",
+        "employee10Name": "Максим Минцлов",
+        "employee11Name": "Эмма Линдберг",
+        "employee12Name": "Герман Титов",
+
+        "employee13Name": "Мироненко Карина",
+        "employee14Name": "Исаева Ольга",
+        "employee15Name": "Юсупова Мария",
+        "employee16Name": "Воронин Глеб",
+
+        "employee17Name": "Бойко София",
+        "employee18Name": "Бондарь Евгения",
+        "employee19Name": "Стрелецкая Марина",
+        "employee20Name": "Костенко Владислав",
+
+        "employeeLocation": "Англия",
+        
+        "employeeEconomist": "Экономист",
+        "employeeManager": "Менеджер",
+        "employeePayementsDivision": "Отдел продаж",
+
+        "employeesMoreBtn": "Покакзать больше сотрудников",
+        
+        "aboutUsTitle": "Про нас",
+        "aboutUsAdress1": "Лондон, Англия",
+        "aboutUsAdress2": "ул. Бейкер-стрит 21",
+        "aboutUsEmailLabel": "Электронная почта:",
+        "aboutUsWorkingHoursLabel": "Часы работы:",
+        "aboutUsWorkingHoursText": "Пн-Пт: 8:00 - 16:00"
+    },
+    "errors": {
+        "en": {
+
+        },
+        "ru": {
+
+        }
+    }
+}

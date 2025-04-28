@@ -1,0 +1,118 @@
+{
+    "en": {
+        "pageTitle": "Profile",
+
+        "userId": "Id",
+        "userRole": "Role",
+        
+        "balanceContainerTitle": "Total ammount count",
+        "balanceExactScore": "Exact score",
+        
+        "clientServicesTitle": "Client services",
+        "secureAccount": "Secure account",
+        "secureAccountText1": "Keeping funds in a secure account ensures the safety of your money. The decentralized method of handling your funds prevents third parties from gaining access to your account.",
+        "secureAccountText2": "The decentralized method is used in the blockchain sphere, as well as in banking.",
+        "deposits": "Deposits",
+        "depositsText1": "Holding funds in a deposit account provides quick and secure deposits, storage, and also withdrawals. Paired with a secure account makes a powerful combination.",
+        "depositsText2": "Deposit accounts also offer convenient management through online banking and integration with other financial services.",
+        "afilliateProgram": "Affiliate program",
+        "afilliateProgramText1": "System by which affiliates earn commissions through referring customers for our company, they promoting our services through unique links.",
+        "afilliateProgramText2": "Partners receive rewards for each successful referral or sale.",
+        "serviceStorage": "Service: Storage",
+        "serviceStorageText1": "This service allows you to increase your deposit by a certain percentage.",
+        "serviceStorageText2": "You lock your funds and in exchange you receive an additional 4.5% to 15% of the deposit amount. This happens due to the redistribution of your funds.",
+        
+        "aboutUsTitle": "About Us",
+        "aboutUsContainerTitle": "Main Website",
+        "aboutUsText": "You can visit our main website, where you can find detailed information about our services and what we offer to our clients.",
+
+        "transactionsTitle": "Recent transactions",
+
+        "transferPopUpTitle": "Transfer",
+        "transferPopUpPKLabel": "Private key",
+        "transferPopUpPKPlaceholder": "Enter recipient private key",
+        "transferPopUpPKInputInfo": "Make sure you enter the correct private key.",
+        "transferPopUpAmmountLabel": "Ammount",
+        "transferPopUpAmmountPlaceholder": "Enter ammount",
+        "transferPopUpBtnSubmit": "Transfer",
+        "transferSendSuccess": "Transfer was successful",
+
+        "transferTypeTransfer": "Transfer",
+        "transferTypeWithdraw": "Withdraw",
+        "transferTypeDeposit": "Deposit",
+
+        "withdrawBtn": "Withdraw",
+        "withdrawFormTitle": "Payment INFO",
+        "withdrawIBANLabel": "INFO",
+        "withdrawIBANPlaceholder": "Enter your INFO",
+        "withdrawIBANInfoText": "Please, double-check the info before you send it.",
+        "withdrawIBANSubmitBtn": "Send",
+        "withdrawSendSuccess": "Withdrawal of funds has been successfully processed"
+    },
+    "ru": {
+        "pageTitle": "Профиль",
+        
+        "userId": "Идентификатор",
+        "userRole": "Роль",
+        
+        "balanceContainerTitle": "Общее количество денег",
+        "balanceExactScore": "Точный счёт",
+        
+        "clientServicesTitle": "Услуги для клиентов",
+        "secureAccount": "Защищенный счет",
+        "secureAccountText1": "Хранение средств на защищенном счете обеспечивает безопасность ваших денег. Децентрализованный метод работы с вашими средствами не позволяет третьим лицам получить доступ к вашему счету.",
+        "secureAccountText2": "Децентрализованный метод используется в сфере блокчейна, а также в банковской сфере.",
+        "deposits": "Депозиты",
+        "depositsText1": "Хранение средств на депозитном счете обеспечивает быстрое и безопасное пополнение, хранение, а также снятие. В сочетании с безопасным счетом это мощная комбинация.",
+        "depositsText2": "Депозитные счета также предлагают удобное управление через интернет-банкинг и интеграцию с другими финансовыми услугами.",
+        "afilliateProgram": "Партнерская программа",
+        "afilliateProgramText1": "Система, с помощью которой аффилиаты получают комиссионные, привлекая клиентов в нашу компанию и продвигая наши услуги с помощью уникальных ссылок.",
+        "afilliateProgramText2": "Партнеры получают вознаграждение за каждого успешного реферала или продажу.",
+        "serviceStorage": "Услуги: Хранение",
+        "serviceStorageText1": "Эта услуга позволяет увеличить ваш депозит на определенный процент.",
+        "serviceStorageText2": "Вы блокируете свои средства, а взамен получаете дополнительно от 4,5 до 15 % от суммы вклада. Это происходит за счет перераспределения ваших средств.",
+        
+        "aboutUsTitle": "Про нас",
+        "aboutUsContainerTitle": "Официальный сайт",
+        "aboutUsText": "Вы можете посетить наш официальный сайт, где представлена подробная информация о наших услугах и о том, что мы предлагаем нашим клиентам.",
+
+        "transactionsTitle": "Недавние транзакции",
+
+        "transferPopUpTitle": "Перевод средств",
+        "transferPopUpPKLabel": "Приватный ключ",
+        "transferPopUpPKPlaceholder": "Введите приватный ключ получателя",
+        "transferPopUpPKInputInfo": "Убедитесть, что вводите верный приватный ключ.",
+        "transferPopUpAmmountLabel": "Сумма",
+        "transferPopUpAmmountPlaceholder": "Введите сумму перевода",
+        "transferPopUpBtnSubmit": "Перевести",
+        "transferSendSuccess": "Перевод прошёл успешно",
+
+        "transferTypeTransfer": "Перевод",
+        "transferTypeWithdraw": "Вывод",
+        "transferTypeDeposit": "Пополнение",
+        
+        "withdrawBtn": "Вывести",
+        "withdrawFormTitle": "Оплата по  INFO",
+        "withdrawIBANLabel": "INFO",
+        "withdrawIBANPlaceholder": "Введите ваш INFO",
+        "withdrawIBANInfoText": "Пожалуйста, перепроверьте INFO перед отправкой.",
+        "withdrawIBANSubmitBtn": "Отправить",
+        "withdrawSendSuccess": "Вывод средств успешно поставлен в обработку"
+    },
+    "errors": {
+        "en": {
+            "private_key_invalid": "Please enter a valid private key.",
+            "ammount_invalid": "Enter the transfer ammount.",
+            "insufficient_funds": "Insufficient funds in the account.",
+            "invalid_recipient": "There is no user with such private key.",
+            "max_digits": "The transfer amount is too large."
+        },
+        "ru": {
+            "private_key_invalid": "Введите корректный приватный ключ",
+            "ammount_invalid": "Введите сумму перевода.",
+            "insufficient_funds": "Недостаточно средств на счету.",
+            "invalid_recipient": "Пользователя с таким приватным ключом не существует.",
+            "max_digits": "Сумма перевода слишком большая"
+        }
+    }
+}

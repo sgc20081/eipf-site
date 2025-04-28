@@ -1,0 +1,72 @@
+{
+    "en": {
+        "pageTitle": "Registration",
+
+        "formTitle": "Sing up",
+        
+        "formEmailLabel": "Email",
+        "formEmailInputPaceholder": "Fill in your email",
+        "formEmailInputInfo": "We\"ll never share your personal information with anyone else.",
+        
+        "formFullNameLabel": "Full name",
+        "formFullNameInputPaceholder": "Enter your full name",
+        "formFullNameInputInfo": "We\"ll never share your personal information with anyone else.",
+        
+        "formPasswordLabel": "Password",
+        "formPasswordInputPaceholder": "Enter a new password",
+        "formPasswordInputInfo": "Don\"t forget your password",
+        
+        "formConfirmPasswordLabel": "Confirm Password",
+        "formConfirmPasswordInputPaceholder": "Repeat your password",
+        
+        "formSubmitBtn": "Registration",
+        "linkContainerText": "Already have an account?",
+        "linkContainerSignUp": "Sign In",
+
+        "responseSuccess": "Your account has been successfully registered."
+    },
+    "ru": {
+        "pageTitle": "Регистрация",
+
+        "formTitle": "Зарегистрироваться",
+        
+        "formEmailLabel": "Электронная почта",
+        "formEmailInputPaceholder": "Укажите вашу электронную почту",
+        "formEmailInputInfo": "Мы никогда не передадим вашу личную информацию кому-либо еще.",
+        
+        "formFullNameLabel": "Полное имя",
+        "formFullNameInputPaceholder": "Введите ваше полное имя",
+        "formFullNameInputInfo": "Мы никогда не передадим вашу личную информацию кому-либо еще.",
+        
+        "formPasswordLabel": "Пароль",
+        "formPasswordInputPaceholder": "Введите новый пароль",
+        "formPasswordInputInfo": "Не забывайте ввести пароль!",
+        
+        "formConfirmPasswordLabel": "Подтвердите пароль",
+        "formConfirmPasswordInputPaceholder": "Повторите ваш пароль",
+        
+        "formSubmitBtn": "Регистрация",
+        "linkContainerText": "У вас уже есть учетная запись?",
+        "linkContainerSignUp": "Войти",
+
+        "responseSuccess": "Ваш аккаунт успешно зарегистрирован."
+    },
+    "errors": {
+        "en": {
+            "email_required": "Email is required",
+            "invalid_email": "Provide your email adress",
+            "email_already_exists": "User with this email already exists",
+            "invalid_password": "Password is not sufficiently strong. The password must contain a capital letter, a lowercase letter and a number and be at least 6 characters long.",
+            "password_required": "Password is required",
+            "invalid_confirm_password": "Passwords do not match"
+        },
+        "ru": {
+            "email_required": "Электронная почта обязательна",
+            "invalid_email": "Укажите ваш адрес электронный почты",
+            "email_already_exists": "Пользователь с таким электронным адресом уже существует",
+            "invalid_password": "Пароль недостаточно надежен. Пароль должен содержать заглавную букву, строчную букву и цифру и быть минимум 6 символов.",
+            "password_required": "Пароль обязателен",
+            "invalid_confirm_password": "Пароли не совпадают"
+        }
+    }
+}

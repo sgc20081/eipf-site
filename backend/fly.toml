@@ -1,0 +1,29 @@
+# fly.toml app configuration file generated for eipf-site-django on 2025-04-26T17:24:13+03:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'eipf-site-django'
+primary_region = 'iad'
+
+[build]
+  dockerfile = './Dockerfile'
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
+
+[[services]]
+  protocol = 'tcp'
+  internal_port = 8000
+
+  [[services.ports]]
+    port = 80
+    handlers = ['http']
+
+[[vm]]
+  size = 'shared-cpu-1x'

@@ -1,0 +1,13 @@
+app = "eipf_site-nginx"
+primary_region = "iad"
+
+[build]
+  dockerfile = "../Dockerfile"  # Указываем путь до Dockerfile для Nginx
+
+[[services]]
+  internal_port = 8000
+  protocol = "tcp"
+
+  [[services.ports]]
+    handlers = ["http"]
+    port = 80
