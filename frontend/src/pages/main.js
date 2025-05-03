@@ -163,7 +163,7 @@ export class MainPage extends Page {
                     <p class="fz16 lh24 w700">${this.translationText()['profileTitle']}</p>
                     <div class="main_about_profile_container">
                         <div class="about_us_description_container container_3">
-                            <div class="about_us_description_container_header fz16 lh24 w500"">${this.translationText()['profileContainerTitle']}</div>
+                            <div class="about_us_description_container_header fz16 lh24 w500">${this.translationText()['profileContainerTitle']}</div>
                             <p class="op05">${this.translationText()['profileContainerText']}</p>
                         </div>
                         <div class="about_us_qr_container container_4">
